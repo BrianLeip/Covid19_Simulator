@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 344a3d604644509489c062f11bbe78a5
-timeCreated: 1482033346
-licenseType: Store
 ModelImporter:
-  serializedVersion: 18
+  serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
     100002: Weapon_AssultRifle01
@@ -89,10 +87,10 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: .00999999978
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 0
@@ -100,18 +98,16 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
-    keepQuads: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 0
-    normalImportMode: 1
-    tangentImportMode: 1
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
   importAnimation: 0
   copyAvatar: 0
   humanDescription:
@@ -129,5 +125,3 @@ ModelImporter:
   animationType: 0
   additionalBone: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
