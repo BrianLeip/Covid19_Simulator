@@ -52680,6 +52680,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1695691902}
     m_Modifications:
+    - target: {fileID: 6517053810558557597, guid: b6aa25ebb4be2415f8aac84dbed184cc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7122168337156274731, guid: b6aa25ebb4be2415f8aac84dbed184cc,
         type: 3}
       propertyPath: m_ApplyRootMotion
@@ -52703,7 +52708,7 @@ PrefabInstance:
     - target: {fileID: 7536915694454916371, guid: b6aa25ebb4be2415f8aac84dbed184cc,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 60.2
+      value: 46.11
       objectReference: {fileID: 0}
     - target: {fileID: 7536915694454916371, guid: b6aa25ebb4be2415f8aac84dbed184cc,
         type: 3}
